@@ -38,7 +38,7 @@ erarbeitet und zeigt alle Schritte auf, die es zur Einrichtung einer vollständi
 
 ___
 
-![](https://raw.githubusercontent.com/TacoTaco47/M300/master/GitHub_36x36.png "GitHub") 01 - GitHub Account 
+![](https://raw.githubusercontent.com/TacoNaco47/M300_Toolumgebung/master/GitHub_36x36.png "GitHub") 01 - GitHub Account 
 ======
 
 > [⇧ **Nach oben**](https://github.com/TacoNaco47/M300_Toolumgebung)
@@ -132,7 +132,7 @@ Folgende Arbeiten müssen gemacht werden:
 > **Wikipedia:**    https://en.wikipedia.org/wiki/Ssh-agent
 
 
-![](https://raw.githubusercontent.com/TacoTaco47/M300/master/Git_36x36.png "Git Client")  02 - Git Client
+![](https://raw.githubusercontent.com/TacoNaco47/M300_Toolumgebung/master/Git_36x36.png "Git Client")  02 - Git Client
 ======
 
 > [⇧ **Nach oben**](https://github.com/TacoNaco47/M300_Toolumgebung)
@@ -245,7 +245,7 @@ $  git push                        #Upload bzw. Push wird durchgeführt
 ```
 
 
-![](https://raw.githubusercontent.com/TacoTaco47/M300/master/VirtualBox_36x36.png "VirtualBox")  03 - VirtualBox
+![](https://raw.githubusercontent.com/TacoNaco47/M300_Toolumgebung/master/VirtualBox_36x36.png "VirtualBox")  03 - VirtualBox
 ======
 
 > [⇧ **Nach oben**](https://github.com/TacoNaco47/M300_Toolumgebung)
@@ -319,7 +319,7 @@ Die virtuelle Maschine (VM) sollte nun soweit betriebsbereit sein, sprich der Zu
 9. Browser-Fenster schliessen und VM wieder herunterfahren/stoppen
 10. Mit dem Kapitel 4 (Vagrant) fortfahren
 
-![](https://raw.githubusercontent.com/TacoTaco47/M300/master/Vagrant_36x36.png "Vagrant")  04 - Vagrant
+![](https://raw.githubusercontent.com/TacoNaco47/M300_Toolumgebung/master/Vagrant_36x36.png "Vagrant")  04 - Vagrant
 ======
 
 > [⇧ **Nach oben**](https://github.com/TacoNaco47/M300_Toolumgebung)
@@ -420,7 +420,7 @@ Nachfolgend wird die VM mit einem bereits abgeänderten File bzw. VM aus dem dev
 7. Vagrant ist nun komplett einsatzfähig!
 
 
-![](https://raw.githubusercontent.com/TacoTaco47/M300/master/VisualStudioCode_36x36.png "Visual Studio Code") 05 - Visual Studio Code
+![](https://raw.githubusercontent.com/TacoNaco47/M300_Toolumgebung/master/VisualStudioCode_36x36.png "Visual Studio Code") 05 - Visual Studio Code
 ======
 
 > [⇧ **Nach oben**](https://github.com/TacoNaco47/M300_Toolumgebung)
@@ -492,7 +492,7 @@ Nun sollten keine Dateien mit den Endungen .git / .svn / .hg / .vagrant / .DS_st
 6. Bei den 3 Punkten (...) die Funktion **Push** aufrufen
 7. Warten, bis Dateien vollständig gepusht wurden
 
-![](https://raw.githubusercontent.com/TacoTaco47/M300/master/Reflexion_36x36.png "Fazit / Reflexion") 06 - Fazit / Reflexion
+![](https://raw.githubusercontent.com/TacoNaco47/M300_Toolumgebung/master/Reflexion_36x36.png"Fazit / Reflexion") 06 - Fazit / Reflexion
 ======
 
 > [⇧ **Nach oben**](https://github.com/TacoNaco47/M300_Toolumgebung)
@@ -501,7 +501,7 @@ Mir persönlich hat die Einrichtung der Tool-Umgebung sehr viel Freude bereitet.
 
 Für zukünftige Arbeiten werde ich GitHub wohl wieder als unterstützende Hilfe bei der Dokumentation von gemachten Arbeiten verwenden, da der Umfang sehr gross ist und auch der visuelle Aspekt meiner Ansicht nach perfekt ist: ordentlich, modern und sauber!
 
-![](https://raw.githubusercontent.com/TacoTaco47/M300/master/Magnifier_36x36.png "Quellenverzeichnis") 07 - Quellenverzeichnis
+![](https://raw.githubusercontent.com/TacoNaco47/M300_Toolumgebung/master/Magnifier_36x36.png"Quellenverzeichnis") 07 - Quellenverzeichnis
 ====== 
 
 > [⇧ **Nach oben**](https://github.com/TacoNaco47/M300_Toolumgebung)
