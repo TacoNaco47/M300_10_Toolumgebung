@@ -28,20 +28,20 @@ erarbeitet und zeigt alle Schritte auf, die es zur Einrichtung einer vollständi
 * [X] Visual Studio Code (Version 1.26.1)
 
 #### Inhaltsverzeichnis
-* 01 - [GitHub Account](https://github.com/TacoNaco47/M300_Toolumgebung#-01---github-account)
-* 02 - [Git Client](https://github.com/TacoNaco47/M300_Toolumgebung#--02---git-client)
-* 03 - [VirtualBox](https://github.com/TacoNaco47/M300_Toolumgebung#--03---virtualbox)
-* 04 - [Vagrant](https://github.com/TacoNaco47/M300_Toolumgebung#--04---vagrant))
-* 05 - [Visual Studio Code](https://github.com/TacoNaco47/M300_Toolumgebung#-05---visual-studio-code)
-* 06 - [Fazit / Reflexion](https://github.com/TacoNaco47/M300_Toolumgebung#-06---fazit--reflexion)
-* 07 - [Quellenverzeichnis](https://github.com/TacoNaco47/M300_Toolumgebung#-07---quellenverzeichnis)
+* 01 - [GitHub Account](https://github.com/TacoNaco47/M300_10_Toolumgebung#-01---github-account)
+* 02 - [Git Client](https://github.com/TacoNaco47/M300_10_Toolumgebung#--02---git-client)
+* 03 - [VirtualBox](https://github.com/TacoNaco47/M300_10_Toolumgebung#--03---virtualbox)
+* 04 - [Vagrant](https://github.com/TacoNaco47/M300_10_Toolumgebung#--04---vagrant))
+* 05 - [Visual Studio Code](https://github.com/TacoNaco47/M300_10_Toolumgebung#-05---visual-studio-code)
+* 06 - [Fazit / Reflexion](https://github.com/TacoNaco47/M300_10_Toolumgebung#-06---fazit--reflexion)
+* 07 - [Quellenverzeichnis](https://github.com/TacoNaco47/M300_10_Toolumgebung#-07---quellenverzeichnis)
 
 ___
 
 ![](https://raw.githubusercontent.com/TacoNaco47/M300_Toolumgebung/master/GitHub_36x36.png "GitHub") 01 - GitHub Account 
 ======
 
-> [⇧ **Nach oben**](https://github.com/TacoNaco47/M300_Toolumgebung)
+> [⇧ **Nach oben**](https://github.com/TacoNaco47/M300_10_Toolumgebung)
 
 Als erster Schritt muss ein GitHub-Account eingerichtet werden. Dieser dient uns später als "Cloud-Speicher" unserer Dokumentation und weiteren Dateien.
 
@@ -135,7 +135,7 @@ Folgende Arbeiten müssen gemacht werden:
 ![](https://raw.githubusercontent.com/TacoNaco47/M300_Toolumgebung/master/Git_36x36.png "Git Client")  02 - Git Client
 ======
 
-> [⇧ **Nach oben**](https://github.com/TacoNaco47/M300_Toolumgebung)
+> [⇧ **Nach oben**](https://github.com/TacoNaco47/M300_10_Toolumgebung)
 
 Damit die Arbeiten lokal auf dem eigenen PC erfolgen können, muss der sogenannte "Git Client" installiert werden. Dieser ermöglicht uns,
 Cloud-Repositories zu klonen, zu pullen (herunteraden) oder ein lokales Repository zu pushen (hochladen).
@@ -248,7 +248,7 @@ $  git push                        #Upload bzw. Push wird durchgeführt
 ![](https://raw.githubusercontent.com/TacoNaco47/M300_Toolumgebung/master/VirtualBox_36x36.png "VirtualBox")  03 - VirtualBox
 ======
 
-> [⇧ **Nach oben**](https://github.com/TacoNaco47/M300_Toolumgebung)
+> [⇧ **Nach oben**](https://github.com/TacoNaco47/M300_10_Toolumgebung)
 
 Nun widmen wir uns der Virtualisierung von Computersystemen. Für den Betrieb von solchen Maschinen bzw. Computern stehen zahlreiche Virtualisierungsanwendungen zur Verfügung. Eine davon ist VirtualBox. In diesem Kapitel richten wir eine einfache VM (Virtuelle Maschine) mit VirtualBox ein. Also ganz traditionell und wie sich im späteren Verlauf zeigt, auch eine sehr aufwendige Arbeit.
 
@@ -322,7 +322,7 @@ Die virtuelle Maschine (VM) sollte nun soweit betriebsbereit sein, sprich der Zu
 ![](https://raw.githubusercontent.com/TacoNaco47/M300_Toolumgebung/master/Vagrant_36x36.png "Vagrant")  04 - Vagrant
 ======
 
-> [⇧ **Nach oben**](https://github.com/TacoNaco47/M300_Toolumgebung)
+> [⇧ **Nach oben**](https://github.com/TacoNaco47/M300_10_Toolumgebung)
 
 Kapitel 3 (VirtualBox) sollte uns zeigen, dass das Bereitstellen virtueller Systeme in der konventionellen Art lange dauert und umständlich sein kann.
 Abhilfe bietet hier Vagrant. Vagrant ist eine freie Ruby-Anwendung zur Erstellung und Verwaltung virtueller Maschinen und ermöglicht einfache Softwareverteilung.
@@ -423,7 +423,7 @@ Nachfolgend wird die VM mit einem bereits abgeänderten File bzw. VM aus dem dev
 ![](https://raw.githubusercontent.com/TacoNaco47/M300_Toolumgebung/master/VisualStudioCode_36x36.png "Visual Studio Code") 05 - Visual Studio Code
 ======
 
-> [⇧ **Nach oben**](https://github.com/TacoNaco47/M300_Toolumgebung)
+> [⇧ **Nach oben**](https://github.com/TacoNaco47/M300_10_Toolumgebung)
 
 Bis hierhin haben wir soweit alles aufgesetzt und installiert. Nun möchten wir für effizienteres Arbeiten eine "Entwicklungsumgebung" aufbauen, die es uns ermöglicht, alle lokalen Repositories an einem Ort zu verwalten und die dazugehörigen Dateien zu bearbeiten. Die Lösung hierzu ist: Visual Studio Code 
 Dieser freie Quelltext-Editor von Microsoft, ermöglicht uns, unsere Workflows besser zu gestalten und damit die Arbeit um einiges leichter zu machen.
@@ -495,7 +495,7 @@ Nun sollten keine Dateien mit den Endungen .git / .svn / .hg / .vagrant / .DS_st
 ![](https://raw.githubusercontent.com/TacoNaco47/M300_Toolumgebung/master/Reflexion_36x36.png"Fazit / Reflexion") 06 - Fazit / Reflexion
 ======
 
-> [⇧ **Nach oben**](https://github.com/TacoNaco47/M300_Toolumgebung)
+> [⇧ **Nach oben**](https://github.com/TacoNaco47/M300_10_Toolumgebung)
 
 Mir persönlich hat die Einrichtung der Tool-Umgebung sehr viel Freude bereitet. Besonders das Erarbeiten der Dokumentation fand ich interessant, da ich bis anhin den Funktionsumfang von GitHub in Kombination mit Markdown nicht kannte. Da für mich alles sehr neu war, musste ich mich in einer ersten Phase erst einmal in die einzelnen Bereiche einarbeiten und Schritt für Schritt die Anweisungen befolgen. Grösstenteils hatte ich dabei keine Mühe und ich konnte bereits in geraumer Zeit einen Grossteil der Aufgaben abschliessen. Trotz gelegentlichen unklaren Passagen innerhalb der uns zur Verfügung gestellten [«Doku»](http://iotkit.mc-b.ch/tbz/M300V3/html/10-Installation/ "iotkit.mc-b.ch"), konnte ich diese Hindernisse überwinden und mein bis jetzt erlangtes Fachwissen voll und ganz einsetzen. Das einzig nennenswerte Problem stellte die Erstellung des SSH-Keys und die anschliessende Verwendung innerhalb der Visual Studio Code Applikation dar. Da ich (trotz Anweisungen) meinen SSH-Key mit einem Passwort schützen wollte – denn die Sicherheit geht vor(!), hatte ich anschliessend Probleme, wenn ich Änderungen direkt in der Visual Studio Code Umgebung in das Cloud-Repository pushen wollte. In einem Artikel der GitHub-Hilfeseite wird dies jedoch empfohlen und so wurde mir glücklicherweise aufgezeigt, wie man diese Problematik mit dem Hinzufügen des Keys an den SSH-Agent vollständig umgehen kann. Dadurch konnte ich die Umgebung vollständig einrichten und mein Vorgehen entsprechend dokumentieren.
 
@@ -504,7 +504,7 @@ Für zukünftige Arbeiten werde ich GitHub wohl wieder als unterstützende Hilfe
 ![](https://raw.githubusercontent.com/TacoNaco47/M300_Toolumgebung/master/Magnifier_36x36.png"Quellenverzeichnis") 07 - Quellenverzeichnis
 ====== 
 
-> [⇧ **Nach oben**](https://github.com/TacoNaco47/M300_Toolumgebung)
+> [⇧ **Nach oben**](https://github.com/TacoNaco47/M300_10_Toolumgebung)
 
 Die obigen Anleitungen habe ich mit mehreren Quellen erarbeitet und dokumentiert. Das nachfolgende Quellverzeichnis soll Aufschluss über die verwendeten Quellen geben und ein Zeichen der Dankbarkeit und Anerkennung sein.
 
