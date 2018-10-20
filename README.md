@@ -17,6 +17,7 @@ erarbeitet und zeigt alle Schritte auf, die es zur Einrichtung einer vollständi
 | 09.09.2018    | Kapitel 2, 3, 4, 5 und 6 erarbeitet                                                |    MBL   |
 | 10.09.2018    | Kapitel 7 erarbeitet und kleinere Ergänzungen an den anderen Kapitel vorgenommen   |    MBL   |
 | 10.09.2018    | Bilder bzw. Icons eingefügt                                                        |    MBL   |
+| 20.10.2018    | Verknüpfungen angepasst                                                            |    MBL   |
 |      ...      | ...                                                                                |    ...   |
 
 #### Voraussetzungen
@@ -492,7 +493,7 @@ Nun sollten keine Dateien mit den Endungen .git / .svn / .hg / .vagrant / .DS_st
 6. Bei den 3 Punkten (...) die Funktion **Push** aufrufen
 7. Warten, bis Dateien vollständig gepusht wurden
 
-![](https://raw.githubusercontent.com/TacoNaco47/M300_Toolumgebung/master/Reflexion_36x36.png"Fazit / Reflexion") 06 - Fazit / Reflexion
+![](https://raw.githubusercontent.com/TacoNaco47/M300_10_Toolumgebung/master/images/Reflexion_36x36.png "Fazit / Reflexion") 06 - Fazit / Reflexion
 ======
 
 > [⇧ **Nach oben**](https://github.com/TacoNaco47/M300_10_Toolumgebung)
@@ -501,7 +502,7 @@ Mir persönlich hat die Einrichtung der Tool-Umgebung sehr viel Freude bereitet.
 
 Für zukünftige Arbeiten werde ich GitHub wohl wieder als unterstützende Hilfe bei der Dokumentation von gemachten Arbeiten verwenden, da der Umfang sehr gross ist und auch der visuelle Aspekt meiner Ansicht nach perfekt ist: ordentlich, modern und sauber!
 
-![](https://raw.githubusercontent.com/TacoNaco47/M300_Toolumgebung/master/Magnifier_36x36.png"Quellenverzeichnis") 07 - Quellenverzeichnis
+![](https://raw.githubusercontent.com/TacoNaco47/M300_10_Toolumgebung/master/images/Magnifier_36x36.png "Quellenverzeichnis") 07 - Quellenverzeichnis
 ====== 
 
 > [⇧ **Nach oben**](https://github.com/TacoNaco47/M300_10_Toolumgebung)
